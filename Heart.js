@@ -1982,27 +1982,27 @@ ${readmore}
 └──────────⊰
 ┌──⊰ _*CALC*_
 │ element 
-│⊳ 📚 ${prefix}calculator 
-│⊳ 📚 ${prefix}sciencefact
-│⊳ 📚 ${prefix}sciencenews
+│ calculator 
+│ sciencefact
+│ sciencenews
 └──────────⊰
 ┌──⊰ _*💻Coding💻*_
-│⊳ 🌀${prefix}exec
-│⊳ 🌀${prefix}run
-│⊳ 🌀${prefix}gitclone
+│ exec
+│ run
+│ gitclone
 └──────────⊰
 ┌──⊰ _*🧩OWNER🧩*_
-│⊳ ♠️ ${prefix}session
-│⊳ ♠️ ${prefix}join
-│⊳ ♠️ ${prefix}mode *[self/public]*
-│⊳ ♠️ ${prefix}shutdown
-│⊳ ♠️ ${prefix}restart
-│⊳ ♠️ ${prefix}autoread *[option]*
-│⊳ ♠️ ${prefix}autotyping *[option]*
-│⊳ ♠️ ${prefix}autorecording *[option]*
-│⊳ ♠️ ${prefix}autorecordtyp *[option]*
-│⊳ ♠️ ${prefix}autobio *[option]*
-│⊳ ♠️ ${prefix}autoswview *[option]*
+│ session
+│ join
+│ mode *[self/public]*
+│ shutdown
+│ restart
+│ autoread *[option]*
+│ autotyping *[option]*
+│ autorecording *[option]*
+│ autorecordtyp *[option]*
+│ autobio *[option]*
+│ autoswview *[option]*
 │⊳ ♠️ ${prefix}setppbot
 │⊳ ♠️ ${prefix}stealdp
 │⊳ ♠️ ${prefix}block
