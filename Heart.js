@@ -1967,21 +1967,21 @@ break;
 
 Here's the list of my Commands.🔖
 ${readmore}
-┌──⊰ _*🧧GENERAL🧧*_
-│⊳ 🌿 ${prefix}hi
-│⊳ 🌿 ${prefix}dev
-│⊳ 🌿 ${prefix}info
-│⊳ 🌿 ${prefix}support
-│⊳ 🌿 ${prefix}rules
-│⊳ 🌿 ${prefix}term
-│⊳ 🌿 ${prefix}help
-│⊳ 🌿 ${prefix}runtime
-│⊳ 🌿 ${prefix}ping
-│⊳ 🌿 ${prefix}owner
-│⊳ 🌿 ${prefix}script
+┌──⊰ _*Dashboard*_
+│ hi
+│ dev
+│ info
+│ support
+│ rules
+│ term
+│ help
+│ runtime
+│ ping
+│ owner
+│ script
 └──────────⊰
-┌──⊰ _*🎓Education🎓*_
-│⊳ 📚 ${prefix}element 
+┌──⊰ _*CALC*_
+│ element 
 │⊳ 📚 ${prefix}calculator 
 │⊳ 📚 ${prefix}sciencefact
 │⊳ 📚 ${prefix}sciencenews
